@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Lab](http://xyz.com)
+- [Lab](https://codesandbox.io/s/o96wqjmorz)
 
 ### Modules
 
@@ -45,4 +45,4 @@ Usage Notes or examples
 
 #### UML
 
-API -> Redux -> Get -> Player List -> Index -> Form -> API -> Redux
+https://drive.google.com/file/d/1_ibKSyU9w8nx659DhxVWpJYm1TQWSP8C/view?usp=sharing
